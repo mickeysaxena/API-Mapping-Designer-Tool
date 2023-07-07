@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Service
 metadata:
-  name: Pets Service
+  name: pets-service
   description: OpenAPI of Pets
 spec:
   type: openapi
