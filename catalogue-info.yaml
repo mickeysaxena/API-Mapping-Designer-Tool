@@ -7,5 +7,3 @@ spec:
   type: openapi
   lifecycle: production
   owner: team-a
-  definition:
-    $text: https://github.com/mickeysaxena/API-Mapping-Designer-Tool/blob/main/catalogue-info.yaml/openapi.yaml
