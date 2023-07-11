@@ -3,6 +3,8 @@ kind: API
 metadata:
   name: pet-search
   description: Search API for the wayback machine
+  links:
+    - url: https://github.com/mickeysaxena/API-Mapping-Designer-Tool/blob/main/README.md
 spec:
   type: openapi
   lifecycle: production
